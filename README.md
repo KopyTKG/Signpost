@@ -1,5 +1,9 @@
 # Rework in progress
-## Update 2023-08-02 (Framework change)
+
+### Update 2023-10-03 (Prisma backend base added)
+* Adding base for prisma backend
+
+### Update 2023-08-02 (Framework change)
 * Project was migrated to Next.JS
 
 ### Update 2023-08-02 (#19 issue)
